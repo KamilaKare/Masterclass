@@ -5,13 +5,6 @@ Ce repo contient les codes utilisés lors des wébinaires sur l'IA générative.
 -  [Session 2](https://github.com/KamilaKare/Masterclass/blob/main/views.py)  RAG
 -  Session 3:
 
-Pour la session 2, le RAG ([rag](https://github.com/KamilaKare/Masterclass/blob/main/views.py)) a été encapsulé dans une application streamlit ([app](https://github.com/KamilaKare/Masterclass/blob/main/views.py)). Installer les dépendances disponibles dans le fichier requirements.txt et exécuter la commande 
-streamlit run views.py afin de lancer l'application. 
-
-Vous devriez aussi créer un fichier .env qui contiendra votre clé api openai. Sinon, vous pouvez installer [ollama](https://ollama.com/) sur votre pc afin de disposer d'un endpoint local qui alimentera votre RAG. Dans ce cas d'espèce, il faudra décommenter dans le fichier views.py les lignes faisant appel à Ollama.  
-
-Voici une version reformulée de votre `README.md` pour la session 2 :
-
 ---
 
 ## Session 2
