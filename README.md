@@ -1,13 +1,14 @@
+
+# Masterclass sur l'IA Générative
+
 Ce repo contient les codes utilisés lors des wébinaires sur l'IA générative.
 
 -  [Session 1](https://github.com/KamilaKare/Masterclass/blob/main/Masterclass_1.ipynb) : Tokenization & embedding
--  [Session 2](https://github.com/KamilaKare/Masterclass/blob/main/Notebook_Masterclass_2.ipynb) Agent RAG
--  [Session 2](https://github.com/KamilaKare/Masterclass/blob/main/views.py)  RAG
--  Session 3:
+-  [Session 2](https://github.com/KamilaKare/Masterclass/blob/main/Notebook_Masterclass_2.ipynb) : Agent RAG
+-  [Session 2](https://github.com/KamilaKare/Masterclass/blob/main/views.py) : RAG encapsulé dans une application Streamlit
+-  Session 3: à venir
 
----
-
-## Session 2
+## Session 2: Application RAG avec Streamlit
 
 Pour cette session, le modèle RAG a été encapsulé dans une application Streamlit. Vous pouvez trouver le code de l'application [ici](https://github.com/KamilaKare/Masterclass/blob/main/views.py).
 
@@ -32,4 +33,5 @@ Pour cette session, le modèle RAG a été encapsulé dans une application Strea
    - Installez [Ollama](https://ollama.com/) sur votre PC.
    - Décommentez les lignes correspondantes dans le fichier `views.py` pour utiliser Ollama comme endpoint local pour votre RAG.
 
----
+
+
