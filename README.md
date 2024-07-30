@@ -10,7 +10,7 @@ Ce repo contient les codes utilisés lors des wébinaires sur l'IA générative.
 
 ## Session 2: Application RAG avec Streamlit
 
-Pour cette session, le modèle RAG a été encapsulé dans une application Streamlit. Vous pouvez trouver le code de l'application [ici](https://github.com/KamilaKare/Masterclass/blob/main/views.py).
+Pour cette session, le modèle RAG a été encapsulé dans une application Streamlit. Vous pouvez trouver le code de l'application [ici](https://github.com/KamilaKare/Masterclass/blob/main/app.py).
 
 ### Installation
 
