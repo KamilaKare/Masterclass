@@ -6,7 +6,7 @@ Ce repo contient les codes utilisés lors des wébinaires sur l'IA générative.
 -  [Session 1](https://github.com/KamilaKare/Masterclass/blob/main/Masterclass_1.ipynb) : Tokenization & embedding
 -  [Session 2](https://github.com/KamilaKare/Masterclass/blob/main/Notebook_Masterclass_2.ipynb) : Agent RAG
 -  [Session 2](https://github.com/KamilaKare/Masterclass/blob/main/views.py) : RAG encapsulé dans une application Streamlit
--  Session 3: à venir
+-  [Session 3](https://github.com/KamilaKare/Masterclass/blob/main/GenAI_Training_SFT.ipynb): Supervised Fine-tuning (Text to SQL)
 
 ## Session 2: Application RAG avec Streamlit
 
